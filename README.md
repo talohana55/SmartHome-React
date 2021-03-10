@@ -1,3 +1,17 @@
+# Description
+First project at React - Smart Home
+Nice interface for creating a room and control the electrical products from all the rooms of the house.
+Each room has types of products that can be added.
+
+![צילום מסך 2021-03-10 185903](https://user-images.githubusercontent.com/68163421/110667606-18dab100-81d3-11eb-83a0-ad006c731d58.png)
+
+![צילום מסך 2021-03-10 185927](https://user-images.githubusercontent.com/68163421/110667610-1aa47480-81d3-11eb-867e-feaade8d5181.png)
+
+![צילום מסך 2021-03-10 185951](https://user-images.githubusercontent.com/68163421/110667616-1b3d0b00-81d3-11eb-9b65-b63651fe8a0d.png)
+
+![צילום מסך 2021-03-10 190021](https://user-images.githubusercontent.com/68163421/110667621-1c6e3800-81d3-11eb-8102-e03ecb333c00.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
